@@ -37,7 +37,7 @@ results = []
 
 def recursive_weighted(round):
 
-    if round == 0:
+    if round == 1:
         return
 
     round_w_rewards = {}
