@@ -72,5 +72,5 @@ recursive_weighted(100)
 
 print("      2️⃣ 3️⃣ 4️⃣ 5️⃣ 6️⃣ 7️⃣ 8️⃣")
 
-for i in range(100):
+for i in range(len(results)):
     print(results[i])
